@@ -93,7 +93,7 @@ td.image-column {
 
 td.image-column2 {
     width: 220px;
-    height: 180px;
+    height: 160px;
 	padding-left: 10px;
 }
 
@@ -107,7 +107,7 @@ td.description-column {
 
 td.description-column2 {
     width: 780px;
-    height: 180px;
+    height: 160px;
     text-align: left;
     padding-left: 20px;
 }
